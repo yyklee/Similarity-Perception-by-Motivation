@@ -13,3 +13,5 @@ studies that manipulated perceived similarity differently (Studies 1-3).
 ## Statistical method used:
 1. Repeated measures ANOVA (three-way): Study 1-3
 2. Moderation analysis: Study 3
+
+*Data collected via [Yonsei-sona-system](https://psychsci.yonsei.ac.kr/%EC%8B%A4%ED%97%98%EC%B0%B8%EA%B0%80%EC%8B%A0%EC%B2%AD) and [Amazon Turkprime](https://www.cloudresearch.com/)*
