@@ -1,5 +1,5 @@
 # Similarity-perception-by-motivation
-##When Similarity Backfires: Similar same-sex others become less attractive in a mating context 
+## When Similarity Backfires: Similar same-sex others become less attractive in a mating context 
 Although past studies have found that people are attracted to similar others, this current research finds a more nuanced pattern in a mating context. When people
 are eager to attract an opposite-sex mate, same-sex others (potential rivals) who appear similar to them are liked less. Consistent results were obtained across two
 studies that manipulated perceived similarity differently (Studies 1-3). 
