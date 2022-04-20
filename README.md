@@ -8,7 +8,7 @@ studies that manipulated perceived similarity differently (Studies 1-3).
 1. [Similarity_Preprint.pdf](https://github.com/yyklee/Similarity-perception-by-motivation/blob/main/Similarity_Preprint.pdf): Research Paper preprint
 2. [Similarity_Study_Overview.pdf](https://github.com/yyklee/Similarity-perception-by-motivation/blob/main/Similarity_Study_Overview.pdf): Research Overview (ppt version)
 3. [Study1_Syntax_Detailed.R](https://github.com/yyklee/Similarity-perception-by-motivation/blob/main/Study%201_Syntax_Detailed.R) & [Study2_Syntax_Detailed.R](https://github.com/yyklee/Similarity-perception-by-motivation/blob/main/Study%202_Syntax_Detailed.R) & [Study3_Syntax_Detailed.R](https://github.com/yyklee/Similarity-perception-by-motivation/blob/main/Study%203_Syntax_Detailed.R): R syntax for Study 1- 3
-4. [Study1_Data.csv](https://github.com/yyklee/Similarity-perception-by-motivation/blob/main/Study%201_Data.csv) & [Study2_Data.csv](https://github.com/yyklee/Similarity-perception-by-motivation/blob/main/Study%201_Data.R) & [Study3_Data.csv](https://github.com/yyklee/Similarity-perception-by-motivation/blob/main/Study%203_Data.R): Data for Study 1-3
+4. [Study1_Data.csv](https://github.com/yyklee/Similarity-perception-by-motivation/blob/main/Study%201_Data.csv) & [Study2_Data.csv](https://github.com/yyklee/Similarity-Perception-by-Motivation/blob/main/Study%202_Data.csv) & [Study3_Data.csv](https://github.com/yyklee/Similarity-Perception-by-Motivation/blob/main/Study%203_Data.csv): Data for Study 1-3
 
 ## Statistical method used:
 1. Repeated measures ANOVA (three-way): Study 1-3
