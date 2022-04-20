@@ -1,7 +1,7 @@
 # Similarity-perception-by-motivation
 Although past studies have found that people are attracted to similar others, this current research finds a more nuanced pattern in a mating context. When people
 are eager to attract an opposite-sex mate, same-sex others (potential rivals) who appear similar to them are liked less. Consistent results were obtained across two
-studies that manipulated perceived similarity differently (Study 1-3). 
+studies that manipulated perceived similarity differently (Studies 1-3). 
 
 ## This repository includes:
 1. [Similarity_Preprint.pdf](https://github.com/yyklee/Similarity-perception-by-motivation/blob/main/Similarity_Preprint.pdf): Research Paper preprint
